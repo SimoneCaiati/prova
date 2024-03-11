@@ -1,0 +1,3 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_time,shape_dist_traveled
+MUSEUM1,09:00:00,09:00:00,JUSTICE_COURT,1
+MUSEUM1,10:00:00,10:00:00,MUSEUM,2
